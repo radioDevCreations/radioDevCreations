@@ -17,27 +17,27 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 # My skill set 💻
 
-**high level of knowlage**
-* HTML
-* CSS
-* Javascript
+* high level of knowlage
+  * HTML
+  * CSS
+  * Javascript
 
-**solid basics and learning every day**
-* Typescript
-* React
-* Redux
-* React Router
-* Styled Components
-* Sass
+* solid basics and learning every day
+  * Typescript
+  * React
+  * Redux
+  * React Router
+  * Styled Components
+  * Sass
 
-**basics (using from time to time)**
-* C#
-* Entity Framework
-* T-SQL
-* Python
+* basics (using from time to time)
+  * C#
+  * Entity Framework
+  * T-SQL
+  * Python
 
 
 # Contact with me 💬
 [LinkedIn](https://www.linkedin.com/in/radek-rozmus-5820b41a4/ "radioDevCreations on LinkedIn")<br>
 [📷 Instagram](https://www.instagram.com/radiodevcreations/ "radioDevCreations on LinkedIn")<br>
-[✉ Email:](https://www.instagram.com/radiodevcreations/ "radioDevCreations on LinkedIn")
+✉ Email: [radekrozmus@gmail.com](https://www.instagram.com/radiodevcreations/ "radioDevCreations on LinkedIn")
