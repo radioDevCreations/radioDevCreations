@@ -38,6 +38,6 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 
 # Contact with me 💬
-[LinkedIn](https://www.linkedin.com/in/radek-rozmus-5820b41a4/ "radioDevCreations on LinkedIn")
-[📷 Instagram](https://www.instagram.com/radiodevcreations/ "radioDevCreations on LinkedIn")
+[LinkedIn](https://www.linkedin.com/in/radek-rozmus-5820b41a4/ "radioDevCreations on LinkedIn")<br>
+[📷 Instagram](https://www.instagram.com/radiodevcreations/ "radioDevCreations on LinkedIn")<br>
 [✉ Email:](https://www.instagram.com/radiodevcreations/ "radioDevCreations on LinkedIn")
