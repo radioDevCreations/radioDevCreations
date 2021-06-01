@@ -6,12 +6,12 @@ aspiring Front End Developer from Poland. My passion for programming started whe
 
 # More about me...
 
-## Studies 👨‍🎓
+### Studies 👨‍🎓
 * Computer Science and Econometrics
 * College Of Economics And Computer Science in Cracow
 * first degree engineering studies, sophomore
 
-## My interests and hobbys 🎾
+### My interests and hobbys 🎾
 Besides learning I spend my free time playing video games, reading books, trading cryptocurrencies, playing tennis and chess. Trying new things and learning my interests is my cup of tea.
 
 
