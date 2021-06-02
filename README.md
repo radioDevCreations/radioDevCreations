@@ -29,6 +29,7 @@ Besides learning I spend my free time playing video games, reading books, tradin
   * React Router
   * Styled Components
   * Sass
+  * Material UI
 
 * basics (using from time to time)
   * C#
