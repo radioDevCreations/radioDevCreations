@@ -22,20 +22,26 @@ Besides learning I spend my free time playing video games, reading books, tradin
   * CSS
   * Javascript
 
-* solid basics and learning every day
+* good knowledge
   * Typescript
   * React
   * Redux
   * React Router
   * Styled Components
   * Sass
-  * Material UI
+
+* solid basics and learning every day
+  * Lightning Web Components
+  * Apex
+  * SOQL, SOSL
+  * Gatsby.js
 
 * basics (using from time to time)
   * C#
   * Entity Framework
   * T-SQL
   * Python
+  * Material UI
 
 
 # Contact with me or follow me 💬
