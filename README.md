@@ -1,10 +1,11 @@
 # Hello there 👋
 
-My name is Radek and I am
-aspiring Front End Developer from Poland. My passion for programming started when i was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on React and Typescript. I invite you to check out my projects [here](https://github.com/radioDevCreations?tab=repositories "my repositories").
+My name is Radek and I am Junior Web Developer from Poland. I work as a Junior Salesforce Developer by day. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Gatsby.js. I invite you to check out my projects [here](https://github.com/radioDevCreations?tab=repositories "my repositories").
 
 
 # More about me...
+
+### Salesforce Certified JavaScript Developer I 
 
 ### Studies 👨‍🎓
 * Computer Science and Econometrics
@@ -13,7 +14,6 @@ aspiring Front End Developer from Poland. My passion for programming started whe
 
 ### My interests and hobbys 🎾
 Besides learning I spend my free time playing video games, reading books, trading cryptocurrencies, playing tennis and chess. Trying new things and learning my interests is definitely my cup of tea.
-
 
 # My skill set 💻
 
@@ -24,6 +24,7 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 * good knowledge
   * Typescript
+  * Lightning Web Components
   * React
   * Redux
   * React Router
@@ -31,7 +32,6 @@ Besides learning I spend my free time playing video games, reading books, tradin
   * Sass
 
 * solid basics and learning every day
-  * Lightning Web Components
   * Apex
   * SOQL, SOSL
   * Gatsby.js
@@ -42,7 +42,6 @@ Besides learning I spend my free time playing video games, reading books, tradin
   * T-SQL
   * Python
   * Material UI
-
 
 # Contact with me or follow me 💬
 [🏙 LinkedIn](https://www.linkedin.com/in/radek-rozmus-5820b41a4/ "radioDevCreations on LinkedIn")<br>
