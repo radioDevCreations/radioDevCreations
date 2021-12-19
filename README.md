@@ -13,7 +13,8 @@ My name is Radek and I am Junior Web Developer from Poland. I work as a Junior S
 ### My interests and hobbys 🎾
 Besides learning I spend my free time playing video games, reading books, trading cryptocurrencies, playing tennis and chess. Trying new things and learning my interests is definitely my cup of tea.
 
-#My certification ☁️
+# My certification ☁️
+
 ### Salesforce Certified JavaScript Developer I
 
 ![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/2021-03_Badge_SF-Certified_JavaScript-Developer-I_500x490px.png)
