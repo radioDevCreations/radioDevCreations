@@ -7,6 +7,8 @@ My name is Radek and I am Junior Web Developer from Poland. I work as a Junior S
 
 ### Salesforce Certified JavaScript Developer I  ☁️
 
+![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/2021-03_Badge_SF-Certified_JavaScript-Developer-I_500x490px.png)
+
 ### Studies 👨‍🎓
 * Computer Science and Econometrics
 * College Of Economics And Computer Science in Cracow
