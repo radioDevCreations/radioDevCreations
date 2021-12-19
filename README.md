@@ -47,7 +47,7 @@ Besides learning I spend my free time playing video games, reading books, tradin
   * Python
   * Material UI
 
-# Contact with me or follow me 💬
+# Contact me or follow me 💬
 [🏙 LinkedIn](https://www.linkedin.com/in/radek-rozmus-5820b41a4/ "radioDevCreations on LinkedIn")<br>
 [🌄 Trailblazer](https://trailblazer.me/id/radekrozmus)<br>
 [📷 Instagram](https://www.instagram.com/radiodevcreations/ "radioDevCreations on LinkedIn")<br>
