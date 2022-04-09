@@ -17,7 +17,7 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 ### Salesforce Certified Platform Developer I
 
-![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/javascript_developer_1.png)
+![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/2021-03_Badge_SF-Certified_Platform-Developer-I_500x490px.png)
 
 ### Salesforce Certified JavaScript Developer I
 
