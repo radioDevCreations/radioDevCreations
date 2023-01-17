@@ -43,18 +43,19 @@ Besides learning I spend my free time playing video games, reading books, tradin
   * Javascript
 
 * good knowledge
-  * Typescript
   * Lightning Web Components
+  * Apex
+  * SOQL, SOSL
   * React
-  * Redux
-  * React Router
+  * Typescript
   * Styled Components
   * Sass
 
 * solid basics and learning every day
-  * Apex
-  * SOQL, SOSL
   * Gatsby.js
+  * Next.js
+  * Redux
+  * React Router
 
 * basics (using from time to time)
   * C#
@@ -62,6 +63,9 @@ Besides learning I spend my free time playing video games, reading books, tradin
   * T-SQL
   * Python
   * Material UI
+  * Chart.js
+  * Avonni Components
+  * CometD
 
 # Contact me or follow me 💬
 [🏙 LinkedIn](https://www.linkedin.com/in/radek-rozmus-5820b41a4/ "radioDevCreations on LinkedIn")<br>
