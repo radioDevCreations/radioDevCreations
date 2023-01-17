@@ -15,13 +15,17 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 # My certification ☁️
 
-### Salesforce Certified Platform Developer I
+### Salesforce Certified Platform Developer II
 
-![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/platform_developer_1.png)
+![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/Platform_developer_2.png)
 
 ### Salesforce Certified JavaScript Developer I
 
 ![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/javascript_developer_1.png)
+
+### Salesforce Certified Platform Developer I
+
+![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/platform_developer_1.png)
 
 # My skill set 💻
 
