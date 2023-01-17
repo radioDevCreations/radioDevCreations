@@ -23,6 +23,14 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 ![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/javascript_developer_1.png)
 
+### Salesforce Certified Platform App Builder
+
+![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/Platform-App-Builder.png)
+
+### Salesforce Certified Administrator
+
+![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/Administrator.png)
+
 ### Salesforce Certified Platform Developer I
 
 ![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/platform_developer_1.png)
