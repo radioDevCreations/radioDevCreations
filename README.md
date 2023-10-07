@@ -17,7 +17,7 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 ### Salesforce Certified Platform Developer I
 
-![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/2021-11_Badge_SF-Certified_Data-Architect_500x490px.png)
+![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/Data-Architect.png)
 
 ### Salesforce Certified Platform Developer II
 
@@ -41,7 +41,7 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 ### Salesforce Certified Associate
 
-![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/2022-08_Badge_SF-Certified_Administrator_500x490px.png)
+![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/Associate.png)
 
 # My skill set 💻
 
