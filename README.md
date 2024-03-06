@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Radek and I am Junior Web Developer from Poland. I work as a Junior Salesforce Developer by day. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Gatsby.js. I invite you to check out my projects [here](https://github.com/radioDevCreations?tab=repositories "my repositories").
+My name is Radek and I am Web Developer from Poland. I work as a Salesforce Developer by day. My passion for programming started when I was in high school and it continues until now. Both in college and privately, I spend most of my time learning web development. Currently I'm focusing on Salesforce and Next.js with Flask back-end. I invite you to check out my projects [here](https://github.com/radioDevCreations?tab=repositories "my repositories").
 
 
 # More about me...
@@ -15,7 +15,7 @@ Besides learning I spend my free time playing video games, reading books, tradin
 
 # My certification ☁️
 
-### Salesforce Certified Platform Developer I
+### Salesforce Certified Data Architect
 
 ![certification logo](https://github.com/radioDevCreations/radioDevCreations/blob/main/Data-Architect.png)
 
@@ -64,12 +64,12 @@ Besides learning I spend my free time playing video games, reading books, tradin
   * Next.js
   * Redux
   * React Router
+  * Python
 
 * basics (using from time to time)
   * C#
   * Entity Framework
   * T-SQL
-  * Python
   * Material UI
   * Chart.js
   * Avonni Components
